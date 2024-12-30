@@ -104,6 +104,10 @@ a.info-box{
     padding: 1px; 
 }
 
+a.info-box:hover{
+    background-color: cornsilk;
+}
+
 .info-box img{
     height: 70px;
     margin: 10px;
